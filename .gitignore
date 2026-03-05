@@ -1,0 +1,17 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python cache (speeds up your code but not needed on GitHub)
+__pycache__/
+*.pyc
+
+# Ignore large data/traffic files (prevents upload errors)
+*.pcap
+*.pcapng
+*.csv
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
