@@ -1,5 +1,8 @@
 # CS20_NetworkTrafficDetector
 
-# How to run VENV
-## .\venv\Scripts\activate to run venv
-## deactivate to stop venv
+### Before running:
+run this command "pip install -r requirements.txt"
+
+### How to run VENV
+.\venv\Scripts\activate to run venv
+deactivate to stop venv
