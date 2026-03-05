@@ -11,7 +11,7 @@ python -m venv venv
 deactivate
 
 ### Before running:
-run this command "pip install -r requirements.txt"
+pip install -r requirements.txt
 
 ### How to run Streamlit
 streamlit run app.py
